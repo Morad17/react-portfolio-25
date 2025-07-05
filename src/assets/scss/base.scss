@@ -1,0 +1,14 @@
+@import "./Home.scss";
+@import "./Navbar.scss";
+
+/*--------Variables--------*/
+/*--------General Styles--------*/
+.App {
+  display: flex;
+}
+.content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
